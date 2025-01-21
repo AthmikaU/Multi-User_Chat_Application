@@ -1,0 +1,9 @@
+[2025-01-21 08:48:40] SERVER:Athmika has entered the chat
+[2025-01-21 08:49:01] SERVER:Ashi has entered the chat
+[2025-01-21 08:49:53] SERVER:Shobhi has entered the chat
+[2025-01-21 08:50:11] Athmika: Hello!!
+[2025-01-21 08:50:18] Shobhi: Hii
+[2025-01-21 08:50:22] Server: Shobhi has left the chat
+[2025-01-21 08:50:26] Server: Athmika has left the chat
+[2025-01-21 08:50:45] Ashi: Ok, byee
+[2025-01-21 08:50:47] Server: Ashi has left the chat
